@@ -32,10 +32,9 @@ Computer Science & Business Systems Student • Computer Vision • Cybersecurit
 
 ### Featured Projects
 
-- 🚗 **OpenPark** — Real-time parking occupancy detection using OpenCV
-- 🎓 **Teacher Connect** — Full-stack educational collaboration platform
-- 🔐 **Portal Security Testing Tool** — Asynchronous security testing utility
-- 🎮 **Console & Embedded Device Modding** — Xbox RGH 3.0, Wii softmodding, hardware debugging
+- 🚗 **OpenPark**: Real-time parking occupancy detection using OpenCV
+- 🎓 **Teacher Connect**: Full-stack educational collaboration platform
+- 🔐 **Portal Security Testing Tool**: Asynchronous security testing utility
 
 ---
 
