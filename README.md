@@ -69,7 +69,7 @@ An asynchronous security testing utility built with Python that reduced testing 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notexactlynikhil&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notexactlynikhil&theme=github-dark&hide_border=true">
 </p>
 
 ---
